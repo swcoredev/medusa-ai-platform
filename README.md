@@ -135,7 +135,7 @@ yarn start        # Запуск продакшен версии
 ## 👥 Команда
 
 - **Геннадий** - Product Owner & Developer
-- **serviswork** - GitHub организация
+- **swcoredev** - GitHub организация
 
 ## 🆘 Поддержка
 
@@ -150,6 +150,6 @@ yarn start        # Запуск продакшен версии
 
 ## 🔗 Ссылки
 
-- **GitHub**: https://github.com/serviswork/medusa-ai-platform
+- **GitHub**: https://github.com/swcoredev/medusa-ai-platform
 - **Backend API**: http://localhost:9000
 - **Frontend**: http://localhost:8001 
