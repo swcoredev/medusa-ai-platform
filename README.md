@@ -1,1 +1,0 @@
-# 🚀 Medusa AI Platform
